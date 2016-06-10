@@ -1,4 +1,4 @@
-• GROUP STI CHALLENGE DESCRIPTION•
+# GROUP STI CHALLENGE
 
 You are going to write a single JavaScript file to automatically calculate employee STI (‘short term incentive’ or ‘bonus’) for a company.
 
